@@ -1,2 +1,2 @@
 # theLonlypath
-a game with idea of a man and his loneliness
+a game with the  idea of a man and his loneliness
